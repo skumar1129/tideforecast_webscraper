@@ -13,3 +13,6 @@
 
 ### Run Scraper
 ```python scraper.py```
+
+### Note
+When the script is ran too often the site will have a pop up ad that will cause the web driver to hang. In this case, quit all chrome processes where a web driver is running in and restart the script.

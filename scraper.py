@@ -55,7 +55,7 @@ def compare_times(
     if low_tide_time1_int > sunrise_time_int and low_tide_time1_int < sunset_time_int:
         results.append((low_tide_time1, low_tide_height1))
     if low_tide_time2_int > sunrise_time_int and low_tide_time2_int < sunset_time_int:
-        results.append((low_tide_height2, low_tide_height2))
+        results.append((low_tide_time2, low_tide_height2))
     return results
 
 
