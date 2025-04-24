@@ -1,5 +1,11 @@
 # Sahil Tideforecast Scraper
 
+## Project Background
+A webscraping application that get the tideforecast of different locations defined in a list
+
+## Tech Stack
+Python, Selenium
+
 ## Instructions to run:
 
 ### Create Virtual ENV
