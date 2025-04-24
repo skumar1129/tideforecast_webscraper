@@ -1,7 +1,7 @@
 # Sahil Tideforecast Scraper
 
 ## Project Background
-A webscraping application that get the tideforecast of different locations defined in a list
+This project was created to demo the power of webscraping scripts with python and the selenium library specifically. The project is a webscraping application that get the tideforecast of different locations defined in a list
 
 ## Tech Stack
 Python, Selenium
